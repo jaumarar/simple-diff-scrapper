@@ -1,0 +1,17 @@
+{
+  "name": "simple-scrapper-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "*",
+    "request": "*",
+    "request-promise": "*",
+    "colors": "*",
+    "diff": "*",
+    "sequelize": "*",
+    "sqlite3": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
